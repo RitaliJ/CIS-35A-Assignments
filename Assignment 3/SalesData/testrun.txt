@@ -1,0 +1,204 @@
+
+TEST RUNS FOR ASSIGNMENT 3 - SALES DATA
+
+@author RITALI JAIN
+ * CIS 35A.62AZ (CRN: 13083) 
+ * Assignment 3
+ * Due: July 18, 2021
+ * Submitted: July 18, 2021
+
+
+TEST 1:
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+3
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+G
+The total sales for week 1 are: 19919.52
+The total sales for week 2 are: 24115.0
+The total sales for week 3 are: 28378.0
+The total sales for week 4 are: 32641.0
+The total sales for week 5 are: 36904.0
+
+The average daily sales for week 1 are: 2845.6458
+The average daily sales for week 2 are: 3445.0
+The average daily sales for week 3 are: 4054.0
+The average daily sales for week 4 are: 4663.0
+The average daily sales for week 5 are: 5272.0
+
+The total sales for all weeks are: 141957.52
+The average weekly sales are: 28391.504
+The week with the highest sales amount is Week 5
+The week with the lowest sales amount is Week 1
+
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+4
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+A
+The total sales for week 1 are: 23573.38
+The total sales for week 2 are: 27768.861
+The total sales for week 3 are: 32031.861
+The total sales for week 4 are: 36294.86
+The total sales for week 5 are: 40557.86
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+
+
+TEST 2:
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+5
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+c
+The total sales for all weeks are: 124655.266
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+1
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+d
+The average weekly sales are: 24891.504
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+
+
+TEST 3:
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+7
+Invalid Store
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+6
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+F
+The week with the lowest sales amount is Week 1
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+
+TEST 4:
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+3
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+#
+Thank you for using the program. Bye!
+
+
+TEST 5:
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+1
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+K
+Invalid Input
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+
+
+TEST 6:
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+2
+
+What information would you like to see for this store?
+Type 'A' to view the total sales for each week.
+Type 'B' to view the average daily sales for each week.
+Type 'C' to view the total sales for all the weeks.
+Type 'D' to view the average weekly sales.
+Type 'E' to find the week with the highest amount in sales.
+Type 'F' to find the week with the lowest amount in sales.
+Type 'G' to view all of the above values.
+E
+The week with the highest sales amount is Week 5
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+
+TEST 7:
+
+Welcome! Which store would you like to look at? Enter an integer from 1 to 6. 
+To exit the program at any time, type # and press enter.
+#
+Thank you for using the program. Bye!
+
+

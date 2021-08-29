@@ -1,0 +1,73 @@
+TEST RUNS FOR ASSIGNMENT 7
+
+RITALI JAIN
+ * CIS 35A.62AZ (CRN: 13083) 
+ * Assignment 7
+ * Due: August 2, 2021
+ * Submitted: August 2, 2021
+
+
+TEST RUN 1 FOR DRIVER:
+
+Enter Student ID: 1234
+What information would you like to see?
+Type 'A' to view your scores.
+Type 'B' to view class statistics for the quizzes.
+Type 'C' to view both.
+C
+Scores for Student 1234 for chemistry are: 52 7 100 78 34 
+Scores for Student 1234 for computer science are: 92 27 99 48 54 
+The low scores for each quiz for chemistry are: 
+0 7 0 32 10 
+The low scores for each quiz for computer science are: 
+43 23 37 48 21 
+The high scores for each quiz for chemistry are: 
+100 100 100 90 80 
+The high scores for each quiz for computer science are: 
+98 100 100 100 99 
+The average scores for each quiz for chemistry are: 
+46.0 42.0 70.0 75.0 49.0 
+The average scores for each quiz for computer science are: 
+76.0 59.0 76.0 76.0 70.0 
+
+
+TEST RUN 2 FOR DRIVER:
+
+Enter Student ID: 1234
+What information would you like to see?
+Type 'A' to view your scores.
+Type 'B' to view class statistics for the quizzes.
+Type 'C' to view both.
+a
+Scores for Student 1234 for chemistry are: 52 7 100 78 34 
+Scores for Student 1234 for computer science are: 92 27 99 48 54 
+
+
+
+TEST RUN 3 FOR DRIVER:
+
+Enter Student ID: 1234
+What information would you like to see?
+Type 'A' to view your scores.
+Type 'B' to view class statistics for the quizzes.
+Type 'C' to view both.
+b
+Below are the class score statistics:
+The low scores for each quiz for chemistry are: 
+0 7 0 32 10 
+The low scores for each quiz for computer science are: 
+43 23 37 48 21 
+The high scores for each quiz for chemistry are: 
+100 100 100 90 80 
+The high scores for each quiz for computer science are: 
+98 100 100 100 99 
+The average scores for each quiz for chemistry are: 
+46.0 42.0 70.0 75.0 49.0 
+The average scores for each quiz for computer science are: 
+76.0 59.0 76.0 76.0 70.0 
+
+
+
+
+
+

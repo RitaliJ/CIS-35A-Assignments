@@ -1,0 +1,81 @@
+ * @author Ritali Jain
+ * CIS 35A.62AZ (CRN: 13083) 
+ * Assignment 2
+ * Due: July 11, 2021
+ * Submitted: July 11, 2021
+
+Test Runs for Assignment 2 Part 1 (Personal Information):
+
+Test 1:
+
+Enter Person's name: Jane Doe
+Enter Person's address: 1234 Berry St. New York City 09876 NY
+Enter Person's age: 37
+Enter Person's phone number: 1234567890
+
+Here is the personal information. 	 Name: Jane Doe	 Address: 1234 Berry St. New York City 09876 NY	 Age: 37	 Phone Number: 1234567890
+
+Enter Person's name: Bob Java
+Enter Person's address: 7890 Cherry Dr. Cupertino 33445 CA
+Enter Person's age: 33
+Enter Person's phone number: 8877665544
+
+Here is the personal information. 	 Name: Bob Java	 Address: 7890 Cherry Dr. Cupertino 33445 CA	 Age: 33	 Phone Number: 8877665544
+
+Enter Person's name: Naomi Developer
+Enter Person's address: 3344 Raspberry Avenue, Hawaii
+Enter Person's age: 24
+Enter Person's phone number: 1122334455
+
+Here is the personal information. 	 Name: Naomi Developer	 Address: 3344 Raspberry Avenue, Hawaii	 Age: 24	 Phone Number: 1122334455
+
+
+
+Test 2:
+
+Enter Person's name: Ash Soccer
+Enter Person's address: 7654 Apple Lane
+Enter Person's age: 30
+Enter Person's phone number: 4445556667
+
+Here is the personal information. 	 Name: Ash Soccer	 Address: 7654 Apple Lane	 Age: 30	 Phone Number: 4445556667
+
+Enter Person's name: Karoline Cricket
+Enter Person's address: 9988 Banana St
+Enter Person's age: 19
+Enter Person's phone number: 9988998877
+
+Here is the personal information. 	 Name: Karoline Cricket	 Address: 9988 Banana St	 Age: 19	 Phone Number: 9988998877
+
+Enter Person's name: Roger Federer
+Enter Person's address: 6677 Orange Dr.
+Enter Person's age: 40
+Enter Person's phone number: 4567876543
+
+Here is the personal information. 	 Name: Roger Federer	 Address: 6677 Orange Dr.	 Age: 40	 Phone Number: 4567876543
+
+
+
+
+Test 3:
+
+Enter Person's name: Sarah John
+Enter Person's address: 6678 Hello Avenue
+Enter Person's age: 17
+Enter Person's phone number: 8877665544
+
+Here is the personal information. 	 Name: Sarah John	 Address: 6678 Hello Avenue	 Age: 17	 Phone Number: 8877665544
+
+Enter Person's name: John Doe
+Enter Person's address: 8789 Howdy Lane
+Enter Person's age: 46
+Enter Person's phone number: 1234543216
+
+Here is the personal information. 	 Name: John Doe	 Address: 8789 Howdy Lane	 Age: 46	 Phone Number: 1234543216
+
+Enter Person's name: Michaela Liu
+Enter Person's address: 7788 Greetings Dr.
+Enter Person's age: 19
+Enter Person's phone number: 2342345656
+
+Here is the personal information. 	 Name: Michaela Liu	 Address: 7788 Greetings Dr.	 Age: 19	 Phone Number: 2342345656

@@ -1,0 +1,27 @@
+
+TEST RUNS FOR ASSIGNMENT 4 EXERCISE 2 - Ship Dock
+
+RITALI JAIN
+ * CIS 35A.62AZ (CRN: 13083) 
+ * Assignment 4
+ * Due: July 25, 2021
+ * Submitted: July 25, 2021
+
+
+TEST:
+
+The name of the ship is Dreamliner. Built in 2007 with 3 floors.
+The name of the ship is Carnival. Built in 2014 with 5 floors. Maximum passengers are 1000. With amenities
+The name of the ship is BoatLoad. Built in 2001 with 2 floors. Maximum capacity is 10000
+The name of the ship is Royal Caribbean. Built in 2016 with 4 floors. Maximum passengers are 700. No amenities
+The name of the ship is Titanic. Built in 1912 with 3 floors.
+Adding a ship
+The name of the ship is Dreamliner. Built in 2007 with 3 floors.
+The name of the ship is Carnival. Built in 2014 with 5 floors. Maximum passengers are 1000. With amenities
+The name of the ship is BoatLoad. Built in 2001 with 2 floors. Maximum capacity is 10000
+The name of the ship is Royal Caribbean. Built in 2016 with 4 floors. Maximum passengers are 700. No amenities
+The name of the ship is Titanic. Built in 1912 with 3 floors.
+The name of the ship is CargoFargo. Built in 1 with 1999 floors. Maximum capacity is 25000
+
+
+

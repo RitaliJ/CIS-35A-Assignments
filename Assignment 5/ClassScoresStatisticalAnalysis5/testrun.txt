@@ -1,0 +1,31 @@
+
+ * @author Ritali Jain
+ * CIS 35A.62AZ (CRN: 13083) 
+ * Assignment 5
+ * Due: August 1, 2021
+ * Submitted: August 1, 2021
+
+
+
+Stud Qu1 Qu2 Qu3 Qu4 Qu5
+1234 52 7 100 78 34 
+2134 90 36 90 77 30 
+3124 100 45 20 90 70 
+4532 11 17 81 32 77 
+5678 20 12 45 78 34 
+6134 34 80 55 78 45 
+7874 60 100 56 78 78 
+8026 70 10 66 78 56 
+9893 34 9 77 78 20 
+1947 45 40 88 78 55 
+2877 55 50 99 78 80 
+3189 22 70 100 78 77 
+4602 89 50 91 78 60 
+5405 11 11 0 78 10 
+6999 0 98 89 78 20 
+The low scores for each quiz are: 
+0 7 0 32 10 
+The high scores for each quiz are: 
+100 100 100 90 80 
+The average scores for each quiz are: 
+46.0 42.0 70.0 75.0 49.0 
